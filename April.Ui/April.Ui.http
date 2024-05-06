@@ -1,0 +1,6 @@
+@April.Ui_HostAddress = http://localhost:5188
+
+GET {{April.Ui_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
